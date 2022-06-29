@@ -1,3 +1,6 @@
+[![LinkedIn](https://img.shields.io/static/v1?logo=LinkedIn&logoColor=white&label=LinkedIn&message=vmudigal&color=blue)](https://www.linkedin.com/in/vijayendra/)
+[![Facebook](https://img.shields.io/static/v1?logo=Facebook&logoColor=white&label=Facebook&message=mudigal&color=blue)](https://www.facebook.com/mudigal/)
+
 # Hello, Bonjour, Hola, Namaste, Guten Tag #
 
 ![vj-namaste](https://user-images.githubusercontent.com/1531622/162418234-722f7342-76d4-4470-b541-6aec1b143383.png)
@@ -11,6 +14,7 @@ He is a “Software Development Architect” having around 16 years of experienc
 He has contributed few open-source projects such as “ngx-audio-player”, an angular 7+ based audio player library, “microservices-sample” and “hello-deployment”, an architectural referral projects that has been and is being referred by many individuals and organisations.
 
 He loves coding, photography, hiking, travelling, solving puzzles, biking, swimming, dancing etc.
+
 
 ## Some Not-Great Stats ##
 
